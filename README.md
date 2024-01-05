@@ -18,15 +18,3 @@ Feel free to browse my repositories and reach out if you want to talk tech, exch
 
 📫 How to reach me: nadeemsarwar.ai@gmail.com
 Let's make something awesome together!
-
-
-- 👋 Hi, I’m @NadeemSarwarAi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NadeemSarwarAi/NadeemSarwarAi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
